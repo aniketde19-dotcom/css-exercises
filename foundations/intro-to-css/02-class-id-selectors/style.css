@@ -1,11 +1,11 @@
 /* Add CSS Styling */
 
 
-.class{
+.odd{
     background-color: lightpink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.class.three{
+.odd.three{
     font-size: 24px;
 }
 #two{
